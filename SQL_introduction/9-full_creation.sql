@@ -1,0 +1,1 @@
+-- this is a script that creates a table in the database
