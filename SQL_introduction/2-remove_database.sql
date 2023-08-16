@@ -1,2 +1,2 @@
 -- This is how to delete a database
-DROP SCHEMA hbtn_0c_0;
+DROP database IF EXISTS hbtn_0c_0;
