@@ -1,2 +1,2 @@
--- This is how a database is created
-SCHEMA hbtn_0c_0;
+-- this is how a database is created
+CREATE hbtn_0c_0;
