@@ -1,4 +1,5 @@
 -- this is a script that creates a table in the database
+CREATE database IF NOT EXISTS hbtn_0c_0;
 CREATE table IF NOT EXISTS second_table (
     id int,
     name varchar(256),
