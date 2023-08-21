@@ -2,5 +2,5 @@
 
 SELECT * 
 FROM states;
-WHERE name = 'California';
+WHERE name = 'California'
 ORDER BY id ASC;
